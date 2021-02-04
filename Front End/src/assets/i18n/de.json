@@ -1,0 +1,22 @@
+{
+   "Add Restaurant":"",
+   "Username":"Username",
+   "Username is required":"Username is required",
+   "Password":"Password",
+   "Login":"Anmeldung",
+   "Logout":"Ausloggen",
+   "Email":"Email",
+   "Select Role":"Select Role",
+   "Sign Up":"Sign Up",
+   "Please Select Role":"Please Select Role",
+   "Register":"Registrieren",
+   "Username must be at least 3 characters":"Username must be at least 3 characters",
+   "Email is required":"Email is required",
+   "Email must be a valid email address":"Email must be a valid email address",
+   "Password is required":"Password is required",
+   "Password must be at least 6 characters":"Password must be at least 6 characters",
+   "Signup failed":"Signup failed",
+   "Welcome To Zonions Application":"Willkommen bei der Zonions-Anwendung",
+   "Your registration is successful":"Your registration is successful",
+   "Login failed":"Login failed"
+}
